@@ -20,7 +20,7 @@ const projects = [
         stack: [{ name: "Node.js"}, { name: "Express.js"}, { name: "React.js"}, { name: "Scss"}],
         image: '/assets/work/Pat-Garage.png',
         live: '',
-        github: ''
+        github: 'https://github.com/Blamxis/garage_app'
     },
     {
         num: '02',
